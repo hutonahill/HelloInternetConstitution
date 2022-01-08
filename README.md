@@ -2,14 +2,7 @@
 
 it is hereby proposed that we organize, forum a government to establish consistency, end the flag debate and rally the troops to spread the glory of the Tim's across the globe!
 
-
-a few things need to be decided:
-
-- 1 ) What is the ratification condition? What do we need to make this official.
-
-- 2 ) Should there be a right to physically attend the picking up of ballots and the counting of votes?
-
-- 3 ) Who should be the Watchers of the Change (Article 7, Section 2)
+Please check out the issues tab to debate the finer points of the constitution.
 
 
 <br>
