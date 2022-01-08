@@ -1,5 +1,7 @@
 **Welcome Delates, to the Constitutional Convention of Hello Internet!**
 
+![THe Mighty Nail and Gear](https://i.imgur.com/7g83ZTe.png)
+
 it is hereby proposed that we organize, forum a government to establish consistency, end the flag debate and rally the troops to spread the glory of the Tim's across the globe!
 
 Please check out the issues tab to debate the finer points of the constitution.
