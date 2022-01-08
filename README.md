@@ -28,3 +28,4 @@ A few notes on edique.
 2) if you have spelling and grammer changes, submit them without any other substintive changes to the document.
 3) The genaral populus may submit changes via forks. I will asemble a small group to screen changes and make our own.
 4) If you want to contribute, but dont want to have to create your own version, use the issues tab
+5) make sure you discribe every change you make and why you made it in the discription. ("grammer fix" is an aproprate discription)
