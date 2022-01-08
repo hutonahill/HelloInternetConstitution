@@ -25,3 +25,9 @@ Version 1.2
 Changelog: re-wrote article 8 to inclue u/lilulylas idea about two keepers of the change
 
 https://www.mediafire.com/file/ejtqgod8mj5nalx/The_Constitution_of_Hello_Internet_-_v1.2.pdf/file
+
+
+A few notes on edique. 
+
+1) The articles are split into indivigual files for the perpous of orginizations. Please keep them seprate.
+2) if you have spelling and grammer changes, submit them without any other substintive changes to the document.
