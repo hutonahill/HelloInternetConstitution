@@ -1,5 +1,7 @@
 # Article 1 - Structure
 
+<br>
+
 ### Section 1 - The Government
 
 There shall be three governing bodies, the Reddit Congress, The Arbiters, and the Monarchs.
