@@ -22,4 +22,4 @@ The highest penalty for the breaking of any of the laws of the Reddit Congress s
 
 ### Section 4 - Freedom of Information
 
-The deliberations of the Reddit Congress shall be public record and shall not be deleted or removed from the internet. The Reddit Congress may choose to seal discussion to the Reddit Congress, restricting review of deliberations to members of the Reddit Congress and the Monarchs, but binding measures may not be voted on in a sealed session. The full text of all laws shall be public records. If the text of the law is not publicly available it shall have no weight.
+The deliberations of the Reddit Congress shall be a public record and shall not be deleted or removed from the internet. The Reddit Congress may choose to seal discussion to the Reddit Congress, restricting review of deliberations to members of the Reddit Congress and the Monarchs, but binding measures may not be voted on in a sealed session. The full text of all laws shall be public records. If the text of the law is not publicly available it shall have no weight.
